@@ -1,0 +1,22 @@
+{
+    "slow_internet": {
+        "symptom": "My internet is very slow.",
+        "solution": "Try restarting your router and checking your connection settings."
+    },
+    "app_crashing": {
+        "symptom": "The app keeps crashing on startup.",
+        "solution": "Update the app to the latest version and restart your device."
+    }
+    "account_upgrade": {
+        "symptom": "I have no access to bunch of services here.",
+        "solution": "You have to pay for the access get the access to the services."
+    }
+    "forgotten_password": {
+        "symptom": "I forgot my password.",
+        "solution": "Click on the hyperlink called 'Reset my password' and provide your email."
+    }
+    "resign_subscription": {
+        "symptom": "How can I resign from my subscribtion?",
+        "solution": "Select: 'Profile' --> 'myaccount' --> 'billings', and there 'Resign from the subscribtion'."
+    }
+}
